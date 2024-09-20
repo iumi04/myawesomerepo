@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 What makes you excited about programming?
+=======
+What makes you excited about programming?
+My Answer: Being able to think about problems logically and the feeling of solving those problems!
+
+What is your favorite animal and why?
+>>>>>>> my-new-branch
