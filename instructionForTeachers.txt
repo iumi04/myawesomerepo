@@ -1,0 +1,11 @@
+Author: Prashant Gangesar
+Email: prashg04@bu.edu
+
+
+I am submitting "myawesomerepo" on Gradescope. 
+
+As for this assignment, I have completed all steps (0-5). The steps for 0-3 are visible in this attached repository "myawesomerepo".
+Steps 4-5 required a repository to be forked and I have completed those steps in this repository here:
+ * https://github.com/iumi04/intern-bootcamp-git
+
+I have also created a pull request (as instructed in step 5) and it is displayed under "Open" (pull requests) under umending/intern-bootcamp-git.
